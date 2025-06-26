@@ -1,3 +1,8 @@
+# Author: Xuanru Guo
+# Date: 2025/01/15
+# Version: 1.0
+# Description: Display numbers 1-9 on led matrix
+
 from microbit import *
 
 # define numbers
